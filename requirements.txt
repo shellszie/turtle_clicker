@@ -1,2 +1,1 @@
-turtle
-tcl-tk
+python_version >= 3.x
